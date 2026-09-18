@@ -1,0 +1,4 @@
+@EndUserText.label: 'Billing Cockpit - Prelim. Billing Item'
+define service ZPRELIM_BILLING_ITEM {
+  expose ZI_PRELIM_BILLING_ITEM as prelim_billing_item;
+}

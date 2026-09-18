@@ -1,0 +1,4 @@
+@EndUserText.label: 'API Project Billing Request Item'
+define service ZAPI_PROJBILLREQITEM {
+  expose ZIC_ProjBillReqItem as ProjectBillingRequestItem;
+}

@@ -1,0 +1,4 @@
+@EndUserText.label: 'Project Billing Request Item TP Service'
+define service Z_PROJBILLINGREQUESTITEMTP {
+  expose ZIC_ProjBillingRequestItemTP as ProjectBillingRequestItem;
+}

@@ -1,0 +1,4 @@
+@EndUserText.label: 'Billing Cokpit - Prelim. Billing Doc.'
+define service ZPRELIM_BILLING_HEADER {
+  expose ZI_PRELIM_BILLING_HEADER as prelim_billing_header;
+}

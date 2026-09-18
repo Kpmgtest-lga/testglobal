@@ -1,0 +1,4 @@
+@EndUserText.label: 'Custom Project Billing Overview Service'
+define service ZUI_CUSTOM_PROJ_BILLING {
+  expose ZI_CUSTOM_PROJ_BILLING;
+}

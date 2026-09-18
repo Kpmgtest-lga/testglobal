@@ -1,0 +1,4 @@
+@EndUserText.label: 'Billing Doc. Output Request Status'
+define service ZOUTPUT_REQUEST_STATUS {
+  expose ZI_BD_OUTPUT_REQUEST_STATUS as bd_output_request_status;
+}

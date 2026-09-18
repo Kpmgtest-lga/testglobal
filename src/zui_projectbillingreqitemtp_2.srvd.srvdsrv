@@ -1,0 +1,4 @@
+@EndUserText.label: 'ZUI_ProjectBillingReqItemTP_2'
+define service ZUI_ProjectBillingReqItemTP_2 {
+  expose I_ProjectBillingReqItemTP_2;
+}
